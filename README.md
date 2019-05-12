@@ -1,4 +1,4 @@
-# database-as-a-code
+# Database as Code
 
 
 ### Resources:
