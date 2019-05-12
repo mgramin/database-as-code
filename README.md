@@ -1,4 +1,4 @@
-# Database as Code
+# Database as Code Manifesto
 
 
 ### Resources:
