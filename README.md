@@ -1,5 +1,5 @@
 # "Database as Code" Manifesto
-
+#TODO
 
 ### Resources:
 - [Database as Code: a Novel Concept](https://dzone.com/articles/database-as-code-a-novel-concept)
