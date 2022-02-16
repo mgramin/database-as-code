@@ -1,4 +1,4 @@
-# "Database as Code" Manifesto
+# The "Database as Code" Manifesto
 #TODO
 
 ### Resources:
