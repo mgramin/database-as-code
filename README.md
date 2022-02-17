@@ -4,7 +4,7 @@
 - All changes and operations with database and all queries (ideally) against the database should be expressed as a plain old code
 - Git (or anything else VCS) is a single source of truth for database code
 - SQL actually is a main database language supported by almost all DBMS 
-- SQL is not a bytecode for your data and your database, it's a normal human-oriented program language
+- SQL is not a bytecode for your data and your database, it's a normal human-oriented program language ([why?](https://gramin.pro/posts/sql-is-not-a-bytecode-for-data))
 - SQL is designed not only for data, but also for metadata
 - Database code is not only DDL and other migration scripts, DML and all kinds of SQL scripts too
 - Database code is a normal code and it also needs static analysys, code review (especialy by DBA, analysts and business people) , tests and automation of it all. 
