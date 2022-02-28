@@ -7,7 +7,9 @@
 - SQL is not a bytecode for your data and your database, it's a normal human-oriented program language ([why](https://gramin.pro/posts/sql-is-not-a-bytecode-for-data))
 - SQL is designed not only for data, but also for metadata
 - Database code is not only DDL and other migration scripts, DML and all kinds of SQL scripts too
-- Database code is a normal code and it also needs static analysys, code review (especialy by DBA, analysts and business people) , tests and automation of it all. 
+- Database code is a normal code and it also needs static analysys, code review (especialy by DBA, analysts and business people) , tests and automation of it all
+- DBAs and data people should be integrated with Dev and Ops
+- Ability to release on demand.
 
 ### Resources:
 - [Database as Code: a Novel Concept](https://dzone.com/articles/database-as-code-a-novel-concept)
