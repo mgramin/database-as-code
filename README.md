@@ -15,6 +15,7 @@
 - [Database as Code: a Novel Concept](https://dzone.com/articles/database-as-code-a-novel-concept)
 - [Database as Code - the Good, the Bad and the Ugly](https://bytebase.com/blog/database-as-code)
 - [The Database Inside Your Codebase](https://feifan.blog/posts/the-database-inside-your-codebase)
+- [Database as Code. Not only migrations](https://gramin.pro/posts/database-as-code)
 
 ### Talks:
 - [Aren't we forgetting someone?](https://speakerdeck.com/tastapod/arent-we-forgetting-someone)
