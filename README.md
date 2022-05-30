@@ -24,4 +24,5 @@
 - [Bytebase](https://github.com/bytebase/bytebase) - web-based, zero-config, dependency-free database schema change and version control management tool for developers and DBAs.
 - [dbt](https://github.com/dbt-labs/dbt-core) - enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [HugSQL](https://www.hugsql.org) - a Clojure library for embracing SQL, creating a clean separation of Clojure and SQL code.
+- [PugSQL](https://pugsql.org/) - Python library inspired by HugSQL
 - [Yesql](https://github.com/krisajenkins/yesql) - a Clojure library for using SQL. Keep the SQL as SQL.
