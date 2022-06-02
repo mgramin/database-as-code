@@ -25,4 +25,5 @@
 - [dbt](https://github.com/dbt-labs/dbt-core) - enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [Yesql](https://github.com/krisajenkins/yesql) - a Clojure library for using SQL. Keep the SQL as SQL.
 - [HugSQL](https://www.hugsql.org) - a Clojure library for embracing SQL, creating a clean separation of Clojure and SQL code.
-- [PugSQL](https://pugsql.org/) - Python library inspired by HugSQL.
+- [PugSQL](https://pugsql.org) - Python library inspired by HugSQL.
+- [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
