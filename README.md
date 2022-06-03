@@ -27,3 +27,4 @@
 - [HugSQL](https://www.hugsql.org) - a Clojure library for embracing SQL, creating a clean separation of Clojure and SQL code.
 - [PugSQL](https://pugsql.org) - Python library inspired by HugSQL.
 - [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
+- [Pigsty](https://github.com/Vonng/pigsty) - Describe database with code, then create them in one-click.
