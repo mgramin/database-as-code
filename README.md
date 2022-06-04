@@ -28,3 +28,4 @@
 - [PugSQL](https://pugsql.org) - Python library inspired by HugSQL.
 - [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
 - [Pigsty](https://github.com/Vonng/pigsty) - Describe database with code, then create them in one-click.
+- [Bytebase](https://bytebase.com) - Safer and faster database change and version control for teams.
