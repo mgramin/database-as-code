@@ -29,3 +29,4 @@
 - [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
 - [Pigsty](https://github.com/Vonng/pigsty) - Describe database with code, then create them in one-click.
 - [Bytebase](https://bytebase.com) - Safer and faster database change and version control for teams.
+- [aiosql](https://github.com/nackjicholson/aiosql) - SQL is code. Write it, version control it, comment it, and run it using files.
