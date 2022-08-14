@@ -18,7 +18,8 @@
 - [Database as Code. Not only migrations](https://gramin.pro/posts/database-as-code)
 
 ### Talks:
-- [Aren't we forgetting someone?](https://speakerdeck.com/tastapod/arent-we-forgetting-someone)
+- Aren't we forgetting someone? ([slides](https://speakerdeck.com/tastapod/arent-we-forgetting-someone))
+- Database as Code. Not only migrations ([video](https://youtu.be/_XgLLJQ5pZw), [slides](https://github.com/mgramin/percona-community-live-2022))
 
 ### Tools:
 - [Liquibase](https://www.liquibase.org) - database schema change management solution and [standard](https://twitter.com/pramodsadalage/status/1494398226253897733?t=_MKNMnmKBXUMDKJi-ZcYmg&s=19) realization of [Refactoring Databases](https://databaserefactoring.com) patterns.
