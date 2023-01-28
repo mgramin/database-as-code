@@ -1,6 +1,8 @@
 # The "Database as Code" Manifesto
 
-- Treat your database or other storage system as a code
+Treat your database or other storage system as a code.
+
+### Base principles:
 - All changes and operations with the database and all queries (ideally) against the database should be expressed as a plain old code
 - Git (or anything else VCS) is a single source of truth for database code
 - SQL actually is a main database language supported by almost all DBMS 
