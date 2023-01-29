@@ -1,6 +1,6 @@
 # The "Database as Code" Manifesto
 
-Treat your database or other storage system as a code.
+We believe that we can interact with our databases (including queries, administration and the entire DB lifecycle) as if they were plain code. And we call it - "Database as Code" (such as "infrastructure as code", "configuration as code", "pipeline as code" and so on).
 
 ### Base principles:
 - All changes and operations with the database and all queries (ideally) against the database should be expressed as a plain old code
