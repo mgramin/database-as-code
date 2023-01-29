@@ -33,3 +33,4 @@ We believe that we can interact with our databases (including queries, administr
 - [Pigsty](https://github.com/Vonng/pigsty) - Describe database with code, then create them in one-click.
 - [Bytebase](https://bytebase.com) - Safer and faster database change and version control for teams.
 - [aiosql](https://github.com/nackjicholson/aiosql) - SQL is code. Write it, version control it, comment it, and run it using files.
+- [Synthesized](https://www.synthesized.io) - Create high-quality data for machine learning, application development and testing with easy-to-use config files.
