@@ -35,3 +35,4 @@ We believe that we can interact with our databases and storage (including querie
 - [aiosql](https://github.com/nackjicholson/aiosql) - SQL is code. Write it, version control it, comment it, and run it using files.
 - [Synthesized](https://www.synthesized.io) - Create high-quality data for machine learning, application development and testing with easy-to-use config files.
 - [Evidence](https://github.com/evidence-dev/evidence) - Build a polished business intelligence system using only SQL and markdown.
+- [Soda](https://www.soda.io) - Check Data As Code.
