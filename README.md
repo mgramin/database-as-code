@@ -36,5 +36,9 @@ We believe that we can interact with our databases and storage (including querie
 - [Evidence](https://github.com/evidence-dev/evidence) - Build a polished business intelligence system using only SQL and markdown.
 - [Soda](https://www.soda.io) - Check Data As Code.
 
+#### Codegens:
+- [sqlc](https://sqlc.dev) - SQL-first code generator producing type-safe bindings for various languages and various databases.
+- [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
+- [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
 
 If you have any ideas or suggestions about this manifesto, please submit a pull request to the [original repository](https://github.com/mgramin/database-as-code).
