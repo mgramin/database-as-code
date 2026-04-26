@@ -22,9 +22,11 @@ We believe that we can interact with our databases and storage (including querie
 ### Talks:
 - Aren't we forgetting someone? ([slides](https://speakerdeck.com/tastapod/arent-we-forgetting-someone))
 - Database as Code. Not only migrations ([video](https://youtu.be/_XgLLJQ5pZw), [slides](https://github.com/mgramin/percona-community-live-2022))
+- Database DevOps: CD for Stateful Applications ([video](https://www.youtube.com/watch?v=oXrHyOrUwB8))
 
 ### Tools:
 - [Liquibase](https://www.liquibase.org) - database schema change management solution and [standard](https://twitter.com/pramodsadalage/status/1494398226253897733?t=_MKNMnmKBXUMDKJi-ZcYmg&s=19) realization of [Refactoring Databases](https://databaserefactoring.com) patterns.
+- [Harness Database DevOps](https://www.harness.io/products/database-devops) - database schema management solution built on top of liquibase. Adds native CI/CD capabilities, enterprise governance capabilities, and features to ensure visibility into database state across environments.
 - [dbt](https://github.com/dbt-labs/dbt-core) - enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [Yesql](https://github.com/krisajenkins/yesql) - a Clojure library for using SQL. Keep the SQL as SQL.
 - [HugSQL](https://www.hugsql.org) - a Clojure library for embracing SQL, creating a clean separation of Clojure and SQL code.
