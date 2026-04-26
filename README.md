@@ -24,6 +24,7 @@ We believe that we can interact with our databases and storage (including querie
 - Database as Code. Not only migrations ([video](https://youtu.be/_XgLLJQ5pZw), [slides](https://github.com/mgramin/percona-community-live-2022))
 
 ### Tools:
+- Harness [Database DevOps](https://www.harness.io/products/database-devops) - CI/CD integrated database schema change management with native support for gitops workflows.
 - [Liquibase](https://www.liquibase.org) - database schema change management solution and [standard](https://twitter.com/pramodsadalage/status/1494398226253897733?t=_MKNMnmKBXUMDKJi-ZcYmg&s=19) realization of [Refactoring Databases](https://databaserefactoring.com) patterns.
 - [dbt](https://github.com/dbt-labs/dbt-core) - enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [Yesql](https://github.com/krisajenkins/yesql) - a Clojure library for using SQL. Keep the SQL as SQL.
